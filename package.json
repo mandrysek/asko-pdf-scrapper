@@ -1,0 +1,22 @@
+{
+  "name": "asko-pdf-scrapper",
+  "version": "0.0.1",
+  "description": "Asko furniture scrapper",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandrysek/asko-pdf-scrapper.git"
+  },
+  "author": "Miroslav Andrysek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandrysek/asko-pdf-scrapper/issues"
+  },
+  "homepage": "https://github.com/mandrysek/asko-pdf-scrapper#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "moment": "^2.17.1",
+    "request": "^2.80.0"
+  }
+}
